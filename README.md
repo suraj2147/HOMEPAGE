@@ -1,2 +1,2 @@
 # HOMEPAGE
-i have createdn netflix hompage with using css and html
+i have created netflix homepage with using css and html
